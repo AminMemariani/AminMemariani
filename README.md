@@ -1,5 +1,3 @@
-## 🛠️ Amin’s Dynamic Toolbox
-
 Here are the technologies and frameworks I actively use in my GitHub projects:
 
 ### Core Technologies
