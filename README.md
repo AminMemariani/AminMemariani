@@ -7,7 +7,6 @@ I enjoy building products that solve real-world problems.
 
 ### 🌐 Find me on
 
-[![X (Twitter)](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/DevAmin89)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amin-memariani-75315357/)
 
 ---
