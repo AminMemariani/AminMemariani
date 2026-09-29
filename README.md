@@ -16,11 +16,13 @@ I enjoy building products that solve real-world problems.
 
 ---
 
-### Tech Stack Breakdown
+### Language Distribution Report
 
 ```mermaid
-pie title Languages & Core Technologies
-    "Dart / Flutter" : 45
+pie title Programming Language & Tech Stack Distribution
+    "Dart / Flutter" : 40
     "TypeScript / JavaScript" : 20
-    "Python" : 20
-    "HTML / CSS / Other" : 15
+    "Python" : 15
+    "Kotlin" : 10
+    "C++" : 8
+    "HTML5 / CSS3" : 7
